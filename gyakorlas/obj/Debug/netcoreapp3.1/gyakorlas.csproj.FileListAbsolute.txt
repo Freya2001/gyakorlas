@@ -1,0 +1,13 @@
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\bin\Debug\netcoreapp3.1\gyakorlas.exe
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\bin\Debug\netcoreapp3.1\gyakorlas.deps.json
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\bin\Debug\netcoreapp3.1\gyakorlas.runtimeconfig.json
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\bin\Debug\netcoreapp3.1\gyakorlas.runtimeconfig.dev.json
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\bin\Debug\netcoreapp3.1\gyakorlas.dll
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\bin\Debug\netcoreapp3.1\gyakorlas.pdb
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\obj\Debug\netcoreapp3.1\gyakorlas.csprojAssemblyReference.cache
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\obj\Debug\netcoreapp3.1\gyakorlas.AssemblyInfoInputs.cache
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\obj\Debug\netcoreapp3.1\gyakorlas.AssemblyInfo.cs
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\obj\Debug\netcoreapp3.1\gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\obj\Debug\netcoreapp3.1\gyakorlas.dll
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\obj\Debug\netcoreapp3.1\gyakorlas.pdb
+C:\Users\Lili\source\repos\gyakorlas\gyakorlas\obj\Debug\netcoreapp3.1\gyakorlas.genruntimeconfig.cache

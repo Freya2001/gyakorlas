@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "melyik_nap/1.0.0": {
+        "runtime": {
+          "melyik_nap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "melyik_nap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

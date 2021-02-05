@@ -1,0 +1,13 @@
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\bin\Debug\netcoreapp3.1\melyik_nap.exe
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\bin\Debug\netcoreapp3.1\melyik_nap.deps.json
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\bin\Debug\netcoreapp3.1\melyik_nap.runtimeconfig.json
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\bin\Debug\netcoreapp3.1\melyik_nap.runtimeconfig.dev.json
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\bin\Debug\netcoreapp3.1\melyik_nap.dll
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\bin\Debug\netcoreapp3.1\melyik_nap.pdb
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\obj\Debug\netcoreapp3.1\melyik_nap.AssemblyInfoInputs.cache
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\obj\Debug\netcoreapp3.1\melyik_nap.AssemblyInfo.cs
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\obj\Debug\netcoreapp3.1\melyik_nap.csproj.CoreCompileInputs.cache
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\obj\Debug\netcoreapp3.1\melyik_nap.dll
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\obj\Debug\netcoreapp3.1\melyik_nap.pdb
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\obj\Debug\netcoreapp3.1\melyik_nap.genruntimeconfig.cache
+C:\Users\Lili\source\repos\melyik_nap\melyik_nap\obj\Debug\netcoreapp3.1\melyik_nap.csprojAssemblyReference.cache

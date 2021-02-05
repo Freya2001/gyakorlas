@@ -12,7 +12,7 @@ namespace melyik_nap
                 string számocska = Console.ReadLine();
                 int szám;
                 bool számít = int.TryParse(számocska, out szám);
-                if (számít)
+                if (számít && 1<= szám && szám < 29)
                 {
                     if (szám % 7 == 1)
                     {
